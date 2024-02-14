@@ -1,0 +1,1 @@
+In this project , we create a small table as an example for employee personal data. then, we try to access this database using flask framework as a base for Rest Api to reach this table and modify its items.
